@@ -1,2 +1,2 @@
 # tourofrust
-Playing with https://www.rust-lang.org/
+Playing with https://tourofrust.com/
